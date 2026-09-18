@@ -1,0 +1,5 @@
+# Everything in this repository is owned by the backend approvers team.
+# Note: this file is only enforced when branch protection on `main` requires
+# review from code owners, and the team must have write access to the repo.
+
+* @CartesianSoftware/app-backend-approvers
