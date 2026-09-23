@@ -9,7 +9,7 @@ which of them to complete.
 | Exercise | Directory | Status |
 | --- | --- | --- |
 | System design | [`system-design/`](system-design/) | Available |
-| API build | [`api-task/`](api-task/) | Coming soon |
+| API build | [`api-task/`](api-task/) | Available |
 
 ## Before you start
 
@@ -19,8 +19,9 @@ to attempt it.
 
 ## Questions and submission
 
-Your Endgame contact will tell you what to prepare and how the session runs, and
-is the right person to ask if anything in a brief is ambiguous. If an assumption
+The API brief explains how to submit your work. For the system design exercise,
+your Endgame contact will tell you what to prepare and how the session runs.
+They are also the right person to ask if anything in a brief is ambiguous. If an assumption
 is genuinely yours to make, make it and say so — we would rather hear your
 reasoning than see you stall on a detail we left open.
 
